@@ -19,7 +19,7 @@
 
     <!-- JaCoCo support -->
     <argLine></argLine>
-    <sonar.version>6.1</sonar.version>
+    <sonar.version>6.4</sonar.version>
   </properties>
 
   <dependencies>
